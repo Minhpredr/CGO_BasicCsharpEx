@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 1 Datetime\Bai 1 Datetime\bin\Debug\Bai 1 Datetime.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 1 Datetime\Bai 1 Datetime\bin\Debug\Bai 1 Datetime.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 1 Datetime\Bai 1 Datetime\bin\Debug\Bai 1 Datetime.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 1 Datetime\Bai 1 Datetime\obj\Debug\Bai 1 Datetime.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 1 Datetime\Bai 1 Datetime\obj\Debug\Bai 1 Datetime.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 1 Datetime\Bai 1 Datetime\obj\Debug\Bai 1 Datetime.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 1 Datetime\Bai 1 Datetime\obj\Debug\Bai 1 Datetime.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 1 Datetime\Bai 1 Datetime\obj\Debug\Bai 1 Datetime.pdb
