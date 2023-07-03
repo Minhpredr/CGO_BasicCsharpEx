@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\obj\Debug\Bai 3 chuyen doi tien te.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\obj\Debug\Bai 3 chuyen doi tien te.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\obj\Debug\Bai 3 chuyen doi tien te.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\bin\Debug\Bai 3 chuyen doi tien te.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\bin\Debug\Bai 3 chuyen doi tien te.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\bin\Debug\Bai 3 chuyen doi tien te.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\obj\Debug\Bai 3 chuyen doi tien te.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\obj\Debug\Bai 3 chuyen doi tien te.pdb

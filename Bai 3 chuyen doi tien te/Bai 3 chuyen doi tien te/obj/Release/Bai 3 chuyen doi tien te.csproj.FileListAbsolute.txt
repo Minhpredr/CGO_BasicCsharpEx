@@ -1,0 +1,3 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\obj\Release\Bai 3 chuyen doi tien te.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\obj\Release\Bai 3 chuyen doi tien te.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 3 chuyen doi tien te\Bai 3 chuyen doi tien te\obj\Release\Bai 3 chuyen doi tien te.csproj.CoreCompileInputs.cache
