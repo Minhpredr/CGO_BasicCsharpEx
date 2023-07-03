@@ -4,14 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bai_1_Datetime
+namespace Bai_2_hien_thi_loi_chao
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            DateTime localDate = DateTime.Now;
-            System.Console.WriteLine("Datetime Now is :" + localDate);
+            
+            Console.WriteLine("Enter your name: ");
+
+            string yourName = Console.ReadLine();
+
+            Console.WriteLine("Hello: " + yourName);
             Console.ReadKey();
         }
     }

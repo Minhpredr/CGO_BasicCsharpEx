@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 2 hien thi loi chao\Bai 2 hien thi loi chao\bin\Debug\Bai 2 hien thi loi chao.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 2 hien thi loi chao\Bai 2 hien thi loi chao\bin\Debug\Bai 2 hien thi loi chao.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 2 hien thi loi chao\Bai 2 hien thi loi chao\bin\Debug\Bai 2 hien thi loi chao.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 2 hien thi loi chao\Bai 2 hien thi loi chao\obj\Debug\Bai 2 hien thi loi chao.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 2 hien thi loi chao\Bai 2 hien thi loi chao\obj\Debug\Bai 2 hien thi loi chao.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 2 hien thi loi chao\Bai 2 hien thi loi chao\obj\Debug\Bai 2 hien thi loi chao.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 2 hien thi loi chao\Bai 2 hien thi loi chao\obj\Debug\Bai 2 hien thi loi chao.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 2 hien thi loi chao\Bai 2 hien thi loi chao\obj\Debug\Bai 2 hien thi loi chao.pdb
