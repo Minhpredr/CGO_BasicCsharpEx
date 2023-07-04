@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\Cau lenh if els C#\Cau lenh if els C#\obj\Debug\Cau lenh if els C#.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Cau lenh if els C#\Cau lenh if els C#\obj\Debug\Cau lenh if els C#.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Cau lenh if els C#\Cau lenh if els C#\obj\Debug\Cau lenh if els C#.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Cau lenh if els C#\Cau lenh if els C#\bin\Debug\Cau lenh if els C#.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\Cau lenh if els C#\Cau lenh if els C#\bin\Debug\Cau lenh if els C#.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Cau lenh if els C#\Cau lenh if els C#\bin\Debug\Cau lenh if els C#.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\Cau lenh if els C#\Cau lenh if els C#\obj\Debug\Cau lenh if els C#.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Cau lenh if els C#\Cau lenh if els C#\obj\Debug\Cau lenh if els C#.pdb
