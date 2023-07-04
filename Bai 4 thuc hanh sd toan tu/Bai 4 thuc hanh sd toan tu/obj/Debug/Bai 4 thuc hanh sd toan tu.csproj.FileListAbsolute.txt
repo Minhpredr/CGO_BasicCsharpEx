@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 4 thuc hanh sd toan tu\Bai 4 thuc hanh sd toan tu\bin\Debug\Bai 4 thuc hanh sd toan tu.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 4 thuc hanh sd toan tu\Bai 4 thuc hanh sd toan tu\bin\Debug\Bai 4 thuc hanh sd toan tu.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 4 thuc hanh sd toan tu\Bai 4 thuc hanh sd toan tu\bin\Debug\Bai 4 thuc hanh sd toan tu.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 4 thuc hanh sd toan tu\Bai 4 thuc hanh sd toan tu\obj\Debug\Bai 4 thuc hanh sd toan tu.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 4 thuc hanh sd toan tu\Bai 4 thuc hanh sd toan tu\obj\Debug\Bai 4 thuc hanh sd toan tu.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 4 thuc hanh sd toan tu\Bai 4 thuc hanh sd toan tu\obj\Debug\Bai 4 thuc hanh sd toan tu.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 4 thuc hanh sd toan tu\Bai 4 thuc hanh sd toan tu\obj\Debug\Bai 4 thuc hanh sd toan tu.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 4 thuc hanh sd toan tu\Bai 4 thuc hanh sd toan tu\obj\Debug\Bai 4 thuc hanh sd toan tu.pdb
