@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\if else 2\if else 2\obj\Debug\if else 2.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\if else 2\if else 2\obj\Debug\if else 2.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\if else 2\if else 2\obj\Debug\if else 2.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\if else 2\if else 2\bin\Debug\if else 2.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\if else 2\if else 2\bin\Debug\if else 2.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\if else 2\if else 2\bin\Debug\if else 2.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\if else 2\if else 2\obj\Debug\if else 2.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\if else 2\if else 2\obj\Debug\if else 2.pdb
