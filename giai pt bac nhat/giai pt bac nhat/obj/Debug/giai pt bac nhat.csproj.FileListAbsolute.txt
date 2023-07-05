@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\giai pt bac nhat\giai pt bac nhat\bin\Debug\giai pt bac nhat.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\giai pt bac nhat\giai pt bac nhat\bin\Debug\giai pt bac nhat.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\giai pt bac nhat\giai pt bac nhat\bin\Debug\giai pt bac nhat.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\giai pt bac nhat\giai pt bac nhat\obj\Debug\giai pt bac nhat.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\giai pt bac nhat\giai pt bac nhat\obj\Debug\giai pt bac nhat.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\giai pt bac nhat\giai pt bac nhat\obj\Debug\giai pt bac nhat.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\giai pt bac nhat\giai pt bac nhat\obj\Debug\giai pt bac nhat.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\giai pt bac nhat\giai pt bac nhat\obj\Debug\giai pt bac nhat.pdb
