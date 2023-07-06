@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 6 BMI\Bai 6 BMI\bin\Debug\Bai 6 BMI.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 6 BMI\Bai 6 BMI\bin\Debug\Bai 6 BMI.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 6 BMI\Bai 6 BMI\bin\Debug\Bai 6 BMI.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 6 BMI\Bai 6 BMI\obj\Debug\Bai 6 BMI.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 6 BMI\Bai 6 BMI\obj\Debug\Bai 6 BMI.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 6 BMI\Bai 6 BMI\obj\Debug\Bai 6 BMI.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 6 BMI\Bai 6 BMI\obj\Debug\Bai 6 BMI.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\Bai 6 BMI\Bai 6 BMI\obj\Debug\Bai 6 BMI.pdb
