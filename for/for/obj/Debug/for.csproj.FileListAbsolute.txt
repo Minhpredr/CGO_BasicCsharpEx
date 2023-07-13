@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\for\for\bin\Debug\@for.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\for\for\bin\Debug\@for.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\for\for\bin\Debug\@for.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\for\for\obj\Debug\for.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\for\for\obj\Debug\for.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\for\for\obj\Debug\@for.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\for\for\obj\Debug\@for.pdb
