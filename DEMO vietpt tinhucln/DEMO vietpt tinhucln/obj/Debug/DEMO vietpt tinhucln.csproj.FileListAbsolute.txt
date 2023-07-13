@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\DEMO vietpt tinhucln\DEMO vietpt tinhucln\obj\Debug\DEMO vietpt tinhucln.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\DEMO vietpt tinhucln\DEMO vietpt tinhucln\obj\Debug\DEMO vietpt tinhucln.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\DEMO vietpt tinhucln\DEMO vietpt tinhucln\obj\Debug\DEMO vietpt tinhucln.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\DEMO vietpt tinhucln\DEMO vietpt tinhucln\bin\Debug\DEMO vietpt tinhucln.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\DEMO vietpt tinhucln\DEMO vietpt tinhucln\bin\Debug\DEMO vietpt tinhucln.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\DEMO vietpt tinhucln\DEMO vietpt tinhucln\bin\Debug\DEMO vietpt tinhucln.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\DEMO vietpt tinhucln\DEMO vietpt tinhucln\obj\Debug\DEMO vietpt tinhucln.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\DEMO vietpt tinhucln\DEMO vietpt tinhucln\obj\Debug\DEMO vietpt tinhucln.pdb
