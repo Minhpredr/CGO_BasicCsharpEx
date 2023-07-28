@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\caulenhlap\caulenhlap\bin\Debug\caulenhlap.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\caulenhlap\caulenhlap\bin\Debug\caulenhlap.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\caulenhlap\caulenhlap\bin\Debug\caulenhlap.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\caulenhlap\caulenhlap\obj\Debug\caulenhlap.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\caulenhlap\caulenhlap\obj\Debug\caulenhlap.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\caulenhlap\caulenhlap\obj\Debug\caulenhlap.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\caulenhlap\caulenhlap\obj\Debug\caulenhlap.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\caulenhlap\caulenhlap\obj\Debug\caulenhlap.pdb

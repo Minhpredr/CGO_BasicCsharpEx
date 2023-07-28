@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi09_interface\CGO_buoi09_interface\bin\Debug\CGO_buoi09_interface.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi09_interface\CGO_buoi09_interface\bin\Debug\CGO_buoi09_interface.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi09_interface\CGO_buoi09_interface\bin\Debug\CGO_buoi09_interface.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi09_interface\CGO_buoi09_interface\obj\Debug\CGO_buoi09_interface.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi09_interface\CGO_buoi09_interface\obj\Debug\CGO_buoi09_interface.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi09_interface\CGO_buoi09_interface\obj\Debug\CGO_buoi09_interface.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi09_interface\CGO_buoi09_interface\obj\Debug\CGO_buoi09_interface.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi09_interface\CGO_buoi09_interface\obj\Debug\CGO_buoi09_interface.pdb

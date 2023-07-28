@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_Buoi10\CGO_Buoi10\bin\Debug\CGO_Buoi10.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_Buoi10\CGO_Buoi10\bin\Debug\CGO_Buoi10.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_Buoi10\CGO_Buoi10\bin\Debug\CGO_Buoi10.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_Buoi10\CGO_Buoi10\obj\Debug\CGO_Buoi10.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_Buoi10\CGO_Buoi10\obj\Debug\CGO_Buoi10.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_Buoi10\CGO_Buoi10\obj\Debug\CGO_Buoi10.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_Buoi10\CGO_Buoi10\obj\Debug\CGO_Buoi10.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_Buoi10\CGO_Buoi10\obj\Debug\CGO_Buoi10.pdb

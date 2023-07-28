@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi06_snakegame\CGO_buoi06_snakegame\bin\Debug\CGO_buoi06_snakegame.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi06_snakegame\CGO_buoi06_snakegame\bin\Debug\CGO_buoi06_snakegame.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi06_snakegame\CGO_buoi06_snakegame\bin\Debug\CGO_buoi06_snakegame.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi06_snakegame\CGO_buoi06_snakegame\obj\Debug\CGO_buoi06_snakegame.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi06_snakegame\CGO_buoi06_snakegame\obj\Debug\CGO_buoi06_snakegame.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi06_snakegame\CGO_buoi06_snakegame\obj\Debug\CGO_buoi06_snakegame.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi06_snakegame\CGO_buoi06_snakegame\obj\Debug\CGO_buoi06_snakegame.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_buoi06_snakegame\CGO_buoi06_snakegame\obj\Debug\CGO_buoi06_snakegame.pdb

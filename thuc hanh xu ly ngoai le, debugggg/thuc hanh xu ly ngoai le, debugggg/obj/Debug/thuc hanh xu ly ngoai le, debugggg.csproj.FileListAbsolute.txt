@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\thuc hanh xu ly ngoai le, debugggg\thuc hanh xu ly ngoai le, debugggg\bin\Debug\thuc hanh xu ly ngoai le, debugggg.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\thuc hanh xu ly ngoai le, debugggg\thuc hanh xu ly ngoai le, debugggg\bin\Debug\thuc hanh xu ly ngoai le, debugggg.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\thuc hanh xu ly ngoai le, debugggg\thuc hanh xu ly ngoai le, debugggg\bin\Debug\thuc hanh xu ly ngoai le, debugggg.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\thuc hanh xu ly ngoai le, debugggg\thuc hanh xu ly ngoai le, debugggg\obj\Debug\thuc hanh xu ly ngoai le, debugggg.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\thuc hanh xu ly ngoai le, debugggg\thuc hanh xu ly ngoai le, debugggg\obj\Debug\thuc hanh xu ly ngoai le, debugggg.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\thuc hanh xu ly ngoai le, debugggg\thuc hanh xu ly ngoai le, debugggg\obj\Debug\thuc hanh xu ly ngoai le, debugggg.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\thuc hanh xu ly ngoai le, debugggg\thuc hanh xu ly ngoai le, debugggg\obj\Debug\thuc hanh xu ly ngoai le, debugggg.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\thuc hanh xu ly ngoai le, debugggg\thuc hanh xu ly ngoai le, debugggg\obj\Debug\thuc hanh xu ly ngoai le, debugggg.pdb

@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_07_class\CGO_07_class\bin\Debug\CGO_07_class.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_07_class\CGO_07_class\bin\Debug\CGO_07_class.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_07_class\CGO_07_class\bin\Debug\CGO_07_class.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_07_class\CGO_07_class\obj\Debug\CGO_07_class.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_07_class\CGO_07_class\obj\Debug\CGO_07_class.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_07_class\CGO_07_class\obj\Debug\CGO_07_class.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_07_class\CGO_07_class\obj\Debug\CGO_07_class.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\CGO_07_class\CGO_07_class\obj\Debug\CGO_07_class.pdb
