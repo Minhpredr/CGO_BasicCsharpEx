@@ -1,0 +1,8 @@
+D:\consoleapp2\exercise\CGO_BasicCsharp\tinh tong cac phan tu mang\tinh tong cac phan tu mang\bin\Debug\tinh tong cac phan tu mang.exe.config
+D:\consoleapp2\exercise\CGO_BasicCsharp\tinh tong cac phan tu mang\tinh tong cac phan tu mang\bin\Debug\tinh tong cac phan tu mang.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\tinh tong cac phan tu mang\tinh tong cac phan tu mang\bin\Debug\tinh tong cac phan tu mang.pdb
+D:\consoleapp2\exercise\CGO_BasicCsharp\tinh tong cac phan tu mang\tinh tong cac phan tu mang\obj\Debug\tinh tong cac phan tu mang.csproj.AssemblyReference.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\tinh tong cac phan tu mang\tinh tong cac phan tu mang\obj\Debug\tinh tong cac phan tu mang.csproj.SuggestedBindingRedirects.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\tinh tong cac phan tu mang\tinh tong cac phan tu mang\obj\Debug\tinh tong cac phan tu mang.csproj.CoreCompileInputs.cache
+D:\consoleapp2\exercise\CGO_BasicCsharp\tinh tong cac phan tu mang\tinh tong cac phan tu mang\obj\Debug\tinh tong cac phan tu mang.exe
+D:\consoleapp2\exercise\CGO_BasicCsharp\tinh tong cac phan tu mang\tinh tong cac phan tu mang\obj\Debug\tinh tong cac phan tu mang.pdb
